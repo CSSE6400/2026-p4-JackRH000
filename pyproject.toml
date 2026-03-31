@@ -1,0 +1,9 @@
+[project]
+name = "2026-p4-jackrh000"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pipenv>=2026.5.0",
+]
