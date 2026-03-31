@@ -32,7 +32,7 @@ resource "aws_instance" "hextris-server" {
 
 resource"aws_security_group" "hextris-server" { 
     name= "hextris-server" 
-    description="HextrisHTTP andSSHaccess" 
+    description="Hextris HTTP and SSH access" 
    
     ingress { 
         from_port= 80 
